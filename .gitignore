@@ -1,0 +1,7 @@
+docker-compose/apps/drupal/data/
+docker-compose/apps/joomla/data/
+docker-compose/apps/joomla/html/
+docker-compose/apps/prestashop/data/
+docker-compose/apps/prestashop/html/
+docker-compose/apps/wp/data/
+docker-compose/apps/wp/html/
